@@ -27,10 +27,10 @@ jobs:
 
     - name: Install dependencies
       run: |
-        cd team-builder-with-backend/server
+        cd server
         npm install
 
     - name: Run tests
       run: |
-        cd team-builder-with-backend/server
+        cd server
         npm test

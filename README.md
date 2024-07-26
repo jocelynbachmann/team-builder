@@ -1,3 +1,6 @@
-# CPSC 455 Assignment Repositories
+# Team Builder
 
-Use this repo for your CPSC 455 assignments!
+Simple team builder app. 
+
+https://team-builder-d274.onrender.com
+Note: server is also deployed on a free tier, so it may take a while to start
